@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = deborafachi@hotmail.com
+	name = debora fachinello
